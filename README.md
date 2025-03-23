@@ -33,8 +33,9 @@ The dataset contains information about used cars in the USA, including:
 ## 🚀 How to Run the Notebook  
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/ahmedzarrar/usa-cars-eda.git  
-   cd usa-cars-eda  
+   git clone https://github.com/ahmedzarrar/USA_cars_EDA.git
+   cd USA_cars_EDA
+ 
    ```  
 2. Install required dependencies:  
    ```bash  
